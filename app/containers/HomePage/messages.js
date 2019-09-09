@@ -12,4 +12,12 @@ export default defineMessages({
     id: `${scope}.header`,
     defaultMessage: 'This is the HomePage container!',
   },
+  employee: {
+    id: `${scope}.header`,
+    defaultMessage: 'Employees',
+  },
+  manager: {
+    id: `${scope}.header`,
+    defaultMessage: 'Managers',
+  },
 });
