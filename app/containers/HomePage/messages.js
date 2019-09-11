@@ -14,10 +14,10 @@ export default defineMessages({
   },
   employee: {
     id: `${scope}.header`,
-    defaultMessage: 'Employees',
+    defaultMessage: 'Никита Middle',
   },
   manager: {
     id: `${scope}.header`,
-    defaultMessage: 'Managers',
+    defaultMessage: 'Илья не Middle',
   },
 });
